@@ -13,10 +13,10 @@ section {
   background: var(--clr);
 }
 
-header {
+/* header {
   position: relative;
   width: 100%;
-}
+} */
 
 section .box {
   position: relative;
